@@ -54,6 +54,7 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
+docs/site/
 
 # PyBuilder
 target/
@@ -61,8 +62,9 @@ target/
 #Ipython Notebook
 .ipynb_checkpoints
 
-
 snowball/
 test_data/
 .idea/
 *~
+golden_corpus/
+test_golden_corpus/
